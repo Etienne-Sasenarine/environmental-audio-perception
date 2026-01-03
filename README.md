@@ -2,7 +2,7 @@
 
 ## Overview  
 
-This project evaluates the robustness of **environmental audio perception systems** under additive noise using the UrbanSound8K dataset. A classical machine learning pipeline based on **extracted audio features** and an **SVM classifier** is trained on clean audio and noise-augmented data, then systematically evaluated across increasing noise levels.
+This project evaluates the robustness of **acoustic perception systems** under additive noise using the UrbanSound8K dataset. A classical machine learning pipeline based on **extracted audio features** and an **SVM classifier** is trained on clean audio and noise-augmented data, then systematically evaluated across increasing noise levels.
 
 The goal is to quantify how noise degrades perception performance and demonstrate how **noise-aware training** improves robustness without relying on deep learning models.
 
