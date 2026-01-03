@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.env/
+.venv/
+
+# Data
+data/
+UrbanSound8K/
+
+# Cache & artifacts
+cache/
+models/
+*.joblib
+*.pkl
+*.npy
+
+# Outputs
+outputs/
+plots/
