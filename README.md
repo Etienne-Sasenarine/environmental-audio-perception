@@ -1,4 +1,4 @@
-# Environmental Audio Perception Under Noise
+# Robust Acoustic Perception Under Noise
 
 ## Overview  
 
